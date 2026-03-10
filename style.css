@@ -65,6 +65,10 @@ a:hover {
   color: #ff7043;
   text-decoration: underline;
 }
+body {
+  background-image: url("");
+}
+
 
 /* Animations */
 @keyframes fadeInBody {
